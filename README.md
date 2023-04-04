@@ -1,7 +1,5 @@
 ## Olá 👋
 
-- 🎓 Aluna da Graduação em Tecnologia da Informação na UFRN
-
  <!--
   <div align="center">
    <a href="https://github.com/Jady-Lima">
