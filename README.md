@@ -1,5 +1,11 @@
 ## Olá, bem-vindo!👋
 
+  <div>
+    <ul>
+     <li>✅ Técnica em informática - IFRN</li>
+     <li>🎓 Aluna da Graduação em Tecnologia da Informação - UFRN</li>
+    </ul>
+   </div>
  
   <div align="center">
    <a href="https://github.com/Jady-Lima">
