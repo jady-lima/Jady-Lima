@@ -41,7 +41,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
 </div>
 <div align="center">
