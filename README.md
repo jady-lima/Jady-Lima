@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="250" width="250" border-radios="30" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
+<img align="right" padding="20px" alt="Coragem" height="200" width="300" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2023/10/imagens-de-programacao-png-2.png">
 
 <h1>
     <a href="https://github.com/jady-lima">
@@ -41,8 +41,8 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=algolia)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&theme=algolia&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
 </div>
 <div align="center">
 
