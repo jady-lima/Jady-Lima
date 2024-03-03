@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="200" width="300" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2023/10/imagens-de-programacao-png-2.png">
+<img align="right" padding="20px" alt="Coragem" height="250" width="250" border-radios="30" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
 
 <h1>
     <a href="https://github.com/jady-lima">
@@ -46,5 +46,5 @@
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=jolly&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=algolia&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
 </div>
