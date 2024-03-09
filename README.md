@@ -41,10 +41,10 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=algolia)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&theme=algolia&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
 </div>
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=algolia&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=tokyonight&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
 </div>
