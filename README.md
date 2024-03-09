@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="200" width="300" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2023/10/imagens-de-programacao-png-2.png">
+<img align="right" padding="25px" alt="Coragem" height="200" width="300" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2023/10/imagens-de-programacao-png-2.png">
 
 <h1>
     <a href="https://github.com/jady-lima">
