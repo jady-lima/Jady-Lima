@@ -47,4 +47,5 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=tokyonight&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
+
 </div>
