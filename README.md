@@ -1,4 +1,4 @@
-<img align="right" padding="25px" height="300" width="300" border-radios="30" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
+<img align="right" padding="25px" height="200" width="200" border-radios="30" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
 
 <h1>
     <a href="https://github.com/jady-lima">
