@@ -49,7 +49,4 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
 </div>
 <div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jady-lima&theme=tokyonight&background=000&border=62b1d4c&dates=FFF)](https://git.io/streak-stats)
-
 </div>
