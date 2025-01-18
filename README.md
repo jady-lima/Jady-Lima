@@ -6,7 +6,7 @@
 </h1>
 
 <h3>About me</h3>
-<p>Hello! I’m Jady, a Bachelor’s student in Information Technology at UFRN-IMD. My programming journey began in 2017 with Python during high school at IFRN, and since then, I've been expanding my knowledge in various technologies. My main focus is back-end development, where I work primarily with Java and Spring Boot. Recently, I’ve started exploring mobile development using Flutter, as well as diving into data analysis. I’m always eager to learn and take on new challenges, constantly striving to improve my skills.</p>
+<p>Hello! I’m Jady, a Bachelor’s student in Information Technology at UFRN-IMD. My programming journey began in 2017 with Python during high school at IFRN, and since then, I've been expanding my knowledge in various technologies. My main focus is back-end development. Recently, I’ve started exploring data analysis. I’m always eager to learn and take on new challenges, constantly striving to improve my skills.</p>
 
 <h3>Languages</h3> 
 <div> 
