@@ -36,10 +36,14 @@
 
 <h3>Contact</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jady-lima/)
+<div align="center">
+
 [![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=62b1d4&color:FFF)](https://discord.com/channels/@jadysilva/)
 [![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=62b1d4&color:FFF)](https://github.com/jady-lima)
 [![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=62b1d4&color:FFF)](mailto:jadylsilva@gmail.com)
+
+</div>
+
 
 <h3>GitHub Stats</h3>
 
