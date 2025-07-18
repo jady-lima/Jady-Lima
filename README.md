@@ -33,24 +33,13 @@
     <img alt="bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
 </div>
 
-
-<h3>Contact</h3> 
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=62b1d4&color:FFF)](https://discord.com/channels/@jadysilva/)
-[![GitHub](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=github&logoColor=62b1d4&color:FFF)](https://github.com/jady-lima)
-[![Gmail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=62b1d4&color:FFF)](mailto:jadylsilva@gmail.com)
-
-</div>
-
-
 <h3>GitHub Stats</h3>
 
 <div align="center">
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jady-lima&show_icons=true&theme=transparenthide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=tokyonight\&rank_icon=github)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jady-lima&hide_progress=true&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF&include_all_commits=true&count_private=true)
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jady-lima&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=tokyonight)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jady-lima&layout=compact&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF)
 </div>
-<div align="center">
-</div>
+
+
