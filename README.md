@@ -1,45 +1,61 @@
-<img align="right" padding="25px" height="200" width="200" border-radios="30" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
+<img align="right" height="200" width="200" style="border-radius: 30px; padding: 15px" src="https://cdn.pixabay.com/photo/2013/07/13/11/34/owl-158414_1280.png">
 
-<h1>
-    <a href="https://github.com/jady-lima">
-    <span>Jady Lima</span>
-</h1>
+# 👋 Hey, I'm [Jady Lima](https://github.com/jady-lima)
 
-<h3>About me</h3>
-<p>Hello! I’m Jady, a Bachelor’s student in Information Technology at UFRN-IMD. My main focus is back-end development. Recently, I’ve started exploring data analysis. I’m always eager to learn and take on new challenges, constantly striving to improve my skills.</p>
+🎓 **Bachelor’s student in Information Technology** at **UFRN - IMD**  
+💻 Focused on **Back-End Development** with **Laravel** and **Python**  
+📱 Exploring **Mobile Development** with **Flutter**  
+🌱 Passionate about learning, problem-solving, and building efficient digital solutions  
 
-<h3>Languages</h3> 
-<div> 
-    <img alt="java" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
-    <img alt="Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> 
-    <img alt="Php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> 
-    <img alt="cplusplus" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> 
-    <img alt="c" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> 
-    <img alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> 
-    <img alt="html5" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
-    <img alt="CSS3" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-</div> 
+---
 
-<h3>Tools</h3> 
-<div> 
-    <img alt="flutter" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> 
-    <img alt="spring" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
-    <img alt="git" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
-    <img alt="github" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> 
-    <img alt="mysql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> 
-    <img alt="postgresql" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> 
-    <img alt="mongodb" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> 
-    <img alt="docker" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-    <img alt="bootstrap" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> 
-</div>
+## 🧠 About Me
+Hello! I’m Jady, a tech enthusiast with a passion for creating practical and efficient systems. My current focus is **web and mobile development**, and I’m particularly interested in building scalable applications using **Laravel**, **Vue.js**, and **Flutter**. Recently, I’ve also been diving into **data analysis with Python** to complement my development background.
 
-<h3>GitHub Stats</h3>
+---
 
+## 🛠️ Tech Stack
+
+### 🚀 Main Stacks
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=62b1d4)
+![Vue.js](https://img.shields.io/badge/Vue.js-0D1117?style=flat-square&logo=vue.js&logoColor=62b1d4)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=flat-square&logo=flutter&logoColor=62b1d4)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=62b1d4)
+
+### ⚙️ Additional Languages
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=62b1d4)
+![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=62b1d4)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=62b1d4)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=62b1d4)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=62b1d4)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=62b1d4)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=62b1d4)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=62b1d4)
+
+### 🧰 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=62b1d4)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=62b1d4)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=62b1d4)
+![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=flat-square&logo=gitlab&logoColor=62b1d4)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=flat-square&logo=postman&logoColor=62b1d4)
+![Advanced REST Client](https://img.shields.io/badge/ARC-0D1117?style=flat-square&logo=googlechrome&logoColor=62b1d4)
+
+---
+
+## 📈 GitHub Stats
 <div align="center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jady-lima&show_icons=true&theme=transparenthide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=30&hide=stars&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=tokyonight\&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jady-lima&hide_progress=true&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF&include_all_commits=true&count_private=true)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jady-lima&show_icons=true&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jady-lima&theme=tokyonight&bg_color=000&border_color=62b1d4c&title_color=62b1d4&text_color=FFF&layout=compact)
 
 </div>
 
+---
 
+## 🌐 Connect with Me
+[![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=62b1d4)](mailto:jadylsilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jady-lima)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=62b1d4)](https://github.com/jady-lima)
