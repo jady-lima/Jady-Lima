@@ -5,7 +5,7 @@
 🎓 **Bachelor’s student in Information Technology** at **UFRN - IMD**  
 💻 Focused on **Back-End Development** with **Laravel** and **Python**  
 📱 Exploring **Mobile Development** with **Flutter**  
-🌱 Passionate about learning, problem-solving, and building efficient digital solutions  
+🌱 Learning, problem-solving, and building efficient digital solutions  
 
 ---
 
