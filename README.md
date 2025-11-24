@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm [Jady Lima](https://github.com/jady-lima)
 
-🎓 **Bachelor’s student in Information Technology**
+🎓 **Bachelor’s student in Information Technology**    
 💻 Focused on **Back-End Development** with **Laravel** and **Python**  
 📱 Exploring **Mobile Development** with **Flutter**  
 🌱 Learning, problem-solving, and building efficient digital solutions  
