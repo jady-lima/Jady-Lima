@@ -63,7 +63,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge\&logo=github\&logoColor=62B1D4)
 ![GitLab](https://img.shields.io/badge/GitLab-0D1117?style=for-the-badge\&logo=gitlab\&logoColor=62B1D4)
 ![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge\&logo=jira\&logoColor=62B1D4)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge\&logo=visual-studio-code\&logoColor=62B1D4)
 
 ---
 
@@ -71,9 +70,9 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jady-lima&show_icons=true&theme=tokyonight&bg_color=000&border_color=62b1d4&title_color=62b1d4&text_color=FFF&include_all_commits=true&count_private=true">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=jady-lima&show_icons=true&theme=tokyonight&bg_color=000000&border_color=62b1d4&title_color=62b1d4&text_color=ffffff&icon_color=62b1d4&include_all_commits=true">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jady-lima&theme=tokyonight&bg_color=000&border_color=62b1d4&title_color=62b1d4&text_color=FFF&layout=compact">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jady-lima&theme=tokyonight&bg_color=000000&border_color=62b1d4&title_color=62b1d4&text_color=ffffff&layout=compact&langs_count=6">
 
 </div>
 
@@ -82,4 +81,4 @@
 ## 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=flat-square\&logo=gmail\&logoColor=62b1d4)](mailto:jadylsilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/jady-lima)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin-white&logoColor=0A66C2)](https://www.linkedin.com/in/jady-lima)
